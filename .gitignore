@@ -1,0 +1,12 @@
+# content files
+
+content/
+_build/
+output/
+pelican-plugins/
+
+_nb_header.html
+
+# sublime files
+
+*.sublime-*

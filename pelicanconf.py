@@ -19,8 +19,6 @@ ARTICLE_SAVE_AS = 'blog/{date:%Y}/{date:%m}/{date:%d}/{slug}/index.html'
 
 # Title menu options
 MENUITEMS = [('Archives', '/archives.html')]
-             # ('Contact', '/contact.html'),
-             # ('About', '/about.html')]
 NEWEST_FIRST_ARCHIVES = False
 
 #Github include settings

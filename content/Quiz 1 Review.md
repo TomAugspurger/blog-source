@@ -4,11 +4,15 @@ Slug: Discussion Review
 Category: Stats for Strategy
 Tags: Stats for Strategy, Review
 
-## Section A01
 
 - General remarks
     - read the questions carefully, especially the bold and underlined parts.
     - The full solutions are on ICON.
+
+- [Section A01](#sectionA01)
+- [Section B42](#sectionB42)
+
+## Section A01<a name="sectionA01"></a>
 
 ### #1
 
@@ -40,12 +44,11 @@ The p-value is evidence for $H_A$, so we want to shade to the right.
     + Look at the definitions of a p-value on `p. 26`. We reject $H_0$ when the p-value (the risk of wrongly rejection $H_0$ when it's actually true) is small compared the $\alpha$, our risk tolerance.
 
 
-## Section B42
+## Section B42 <a name="sectionB42"></a>
 
 ### #1
 
-- Don't mix up the population **parameter** with the population.
-The parameter *describes* the *population*. The population is a set of objects (people, bars, etc). and the parameter is a number that describes them.
+- Don't mix up the population **parameter** with the population. The population is a set of objects (people, bars, etc). and the parameter is a number (probably unknown) that describes them.
 
 ### #2
 
@@ -56,6 +59,6 @@ The parameter *describes* the *population*. The population is a set of objects (
 - When to reject vs. fail to reject $H_0$?
     + Look at the definitions of a p-value on `p. 26`. We reject $H_0$ when the p-value (the risk of wrongly rejection $H_0$ when it's actually true) is small compared the $\alpha$, our risk tolerance.
 - $p_0$ vs. $\hat{p}$ in the denominator for $Z$. Be careful with the formula.
-- It is true that clothing is the first choice ... vs. Sufficient evidence to conclude that clothing is the first choice...
+- `It is true that clothing is the first choice ...` vs. `Sufficient evidence to conclude that clothing is the first choice ...` aren't quite the same.
 
-2b: Selection H_a != and check the box.
+2b: Select $H_a \neq$ to get a CI and check the box to use the normal (Z) distrubtion.

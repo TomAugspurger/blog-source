@@ -21,6 +21,9 @@ ARTICLE_SAVE_AS = 'blog/{date:%Y}/{date:%m}/{date:%d}/{slug}/index.html'
 MENUITEMS = [('Archives', '/archives.html')]
 NEWEST_FIRST_ARCHIVES = False
 
+# Articles
+SUMMARY_MAX_LENGTH = 100
+
 #Github include settings
 GITHUB_USER = 'TomAugspurger'
 GITHUB_REPO_COUNT = 3

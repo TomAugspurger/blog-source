@@ -2,6 +2,7 @@ Title: Using Python to tackle the CPS (Part 3)
 Date: 2014-02-5 12:00
 Slug: tackling the cps (part 3)
 Category: Python
+Status: draft
 
 Now that we have the data ([part 1](http://tomaugspurger.github.io/blog/2014/01/27/tackling%20the%20cps/)) and the parsed data dictionary files ([part 2]()), we can start to make sense of the raw monthly CPS tables.
 

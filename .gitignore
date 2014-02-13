@@ -4,8 +4,6 @@ _build/
 output/
 pelican-plugins/
 
-_nb_header.html
-
 # sublime files
 
 *.sublime-*

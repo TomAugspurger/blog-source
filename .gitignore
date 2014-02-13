@@ -4,6 +4,9 @@ _build/
 output/
 pelican-plugins/
 
+# binary
+*.pyc
+
 # sublime files
 
 *.sublime-*

@@ -35,7 +35,7 @@ GITHUB_SHOW_USER_LINK = True
 CODE_DIR = 'downloads/code'
 NOTEBOOK_DIR = 'downloads/notebooks'
 
-THEME = 'pelican-octopress-theme/'
+THEME = 'pelican-themes/pelican-bootstrap3'
 PLUGIN_PATH = os.path.join(os.environ.get('HOME'),
                            'blog-source/pelican-plugins')
 PLUGINS = ['summary', 'liquid_tags.img', 'liquid_tags.video',

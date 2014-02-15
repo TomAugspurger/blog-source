@@ -6,7 +6,7 @@ import os
 
 AUTHOR = u'Tom Augspurger'
 SITENAME = u"Tom's Blog"
-SITEURL = ''
+SITEURL = 'http://tomaugspurger.github.io'
 
 # Times and dates
 DEFAULT_DATE_FORMAT = '%b %d, %Y'

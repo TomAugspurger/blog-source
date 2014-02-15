@@ -10,3 +10,6 @@ pelican-plugins/
 # sublime files
 
 *.sublime-*
+
+# temp
+content/downloads/notebooks/.ipynb_checkpoints/

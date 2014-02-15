@@ -5,4 +5,7 @@ Category: Scripts
 Tags: Python, Scripts, Data Science
 
 This is a test
-{% test_notebook.ipynb  %}
+
+{% notebook Chapter02EDA.ipynb %}
+
+This is also a test.

@@ -20,6 +20,7 @@ ARTICLE_SAVE_AS = 'blog/{date:%Y}/{date:%m}/{date:%d}/{slug}/index.html'
 # Title menu options
 MENUITEMS = [('Archives', '/archives.html')]
 NEWEST_FIRST_ARCHIVES = False
+DISPLAY_CATEGORIES_ON_MENU = False
 
 # Articles
 SUMMARY_MAX_LENGTH = 100
@@ -35,7 +36,7 @@ GITHUB_SHOW_USER_LINK = True
 CODE_DIR = 'downloads/code'
 NOTEBOOK_DIR = 'downloads/notebooks'
 
-THEME = 'pelican-octopress-theme/'
+THEME = 'pelican-octopress-theme'
 PLUGIN_PATH = os.path.join(os.environ.get('HOME'),
                            'blog-source/pelican-plugins')
 PLUGINS = ['summary', 'liquid_tags.img', 'liquid_tags.video',

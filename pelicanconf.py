@@ -25,6 +25,10 @@ DISPLAY_CATEGORIES_ON_MENU = False
 # Articles
 SUMMARY_MAX_LENGTH = 100
 
+# Misc sidebar stuff
+TAG_CLOUD_STEPS = 1
+TAG_CLOUD_MAX_ITEMS = 4
+
 #Github include settings
 GITHUB_USER = 'TomAugspurger'
 GITHUB_REPO_COUNT = 3

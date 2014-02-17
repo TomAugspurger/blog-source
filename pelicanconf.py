@@ -31,7 +31,7 @@ GITHUB_REPO_COUNT = 3
 GITHUB_SKIP_FORK = True
 GITHUB_SHOW_USER_LINK = True
 
-# STATIC_PATHS = ['images', 'figures', 'downloads', 'favicon.png']
+STATIC_PATHS = ['images', 'figures', 'downloads']
 
 CODE_DIR = 'downloads/code'
 NOTEBOOK_DIR = 'downloads/notebooks'

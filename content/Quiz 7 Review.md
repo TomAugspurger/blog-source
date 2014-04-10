@@ -68,7 +68,7 @@ The question asked us to estimate with 90% certainty, so we know the answer shou
 The population regression equation is
 
 \begin{equation}
-    y = \beta_0 + \beta_1 X_1 + \beta_2 X_2 + \beta_3 X_3
+    y = \beta_0 + \beta_1 X_1 + \beta_2 X_2 + \beta_3 X_3 + \epsilon
 \end{equation}
 
 where the $\beta_i$'s are unknown.

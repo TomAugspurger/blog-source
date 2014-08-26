@@ -41,8 +41,8 @@ CODE_DIR = 'downloads/code'
 NOTEBOOK_DIR = 'downloads/notebooks'
 
 THEME = 'pelican-octopress-theme'
-PLUGIN_PATH = os.path.join(os.environ.get('HOME'),
-                           'blog-source/pelican-plugins')
+PLUGIN_PATHS = [os.path.join(os.environ.get('HOME'),
+                            'blog-source/pelican-plugins')]
 PLUGINS = ['summary', 'liquid_tags.img', 'liquid_tags.video',
            'liquid_tags.include_code', 'liquid_tags.notebook',
            'liquid_tags.literal']
@@ -79,7 +79,7 @@ TRANSLATION_FEED_ATOM = None
 DEFAULT_PAGINATION = False
 
 # Uncomment following line if you want document-relative URLs when developing
-# RELATIVE_URLS = True
+RELATIVE_URLS = True
 
 # Search
 SEARCH_BOX = True
